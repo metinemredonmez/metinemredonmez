@@ -21,4 +21,4 @@
 │ 💻 See my code on [GitHub](https://github.com/metinemredonmez)    │
 │ 🤗 Explore my models on [Hugging Face](https://huggingface.co/metinemre) │
 │ 🗂️ View my research on [arXiv](https://arxiv.org/search/?query=metin+emre+d%C3%B6nmez&searchtype=all) │
-│ 🌐 Visit my site: [deeprromai.com](https://deeprromai.com)         │
+│ 🌐 Visit my site: [deeprromai.com](https://deeproomai.com)         │
